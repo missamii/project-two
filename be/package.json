@@ -12,5 +12,11 @@
     "url": "project-two"
   },
   "author": "tiffanylo",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.73.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
 }
