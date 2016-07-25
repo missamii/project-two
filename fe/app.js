@@ -32,7 +32,7 @@ var data = {
 };
   //ajax stuff
     $.ajax({
-      url: "http://localhost:3000/books",
+      url: "https://mysterious-basin-61798.herokuapp.com/",
       method: "post",
       data: data,
       dataType: 'json'
@@ -58,6 +58,7 @@ function appending(response) {
           price = '$' + book.saleInfo.retailPrice.amount;
       }
       html += '<img src="'+thumbnail+'">';
+      html += '<br>';
       html += '<h3>' + title + '</h3>';
       html += '<p>Authors: ' ;
       for (var j = 0; j < authors.length; j++) {
@@ -69,7 +70,13 @@ function appending(response) {
       html += '</p>';
       html += '<p>' + price + '</p>';
       html += '<p>' + description + '</p>';
-      html += "<button id='" + id +"'  type='button' name='button'>Add to Favorites</button>"; // thank you Babajide for helping me with this button part.
+      html += "<button id='" + id +"'  type='button' name='button'>Add to Favorites</button>"  + '<br>';
+      // thank you Babajide for helping me with this button part.
+      html += '<br>';
+      html += '<br>';
+      html += "<button id='" + id +"'  type='button' name='button'>Share</button>" + '<br>';
+      html += '<br>';
+      html += '<br>';
     }
   html += '</ul>';
   document.querySelector('#content').innerHTML = html;
