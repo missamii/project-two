@@ -7,12 +7,12 @@ This is my second project! I am a little proud at how far I came with it. I wish
 Front End:
 
 Heroku:
-1). Git:
+1). Git: https://github.com/missamii/project-two/tree/master/fe
 2). Heroku:
 
 Back End:
 
-1). Git:
+1). Git: https://github.com/missamii/project-two/tree/master/be
 2). Heroku:
 
 
