@@ -106,5 +106,5 @@ res.send(body);
 });//end post
 
 app.listen(PORT, function(){
-  console.log('listening on 3000...');
+  console.log('listening...');
 });

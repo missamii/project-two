@@ -32,7 +32,7 @@ var data = {
 };
   //ajax stuff
     $.ajax({
-      url: "https://mysterious-basin-61798.herokuapp.com/",
+      url: "https://mysterious-basin-61798.herokuapp.com/books",
       method: "post",
       data: data,
       dataType: 'json'
