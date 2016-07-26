@@ -4,16 +4,18 @@
 
 This is my second project! I am a little proud at how far I came with it. I wish the database system worked. Between my backend and mongoDB I ran errors left and right. I tried to use the unicorn demo from class to help me. But it didn't help. It gave me errors as I fiddled with peices. Either way, I personally feel like I have come a lot further from last project.
 
+Link to APP: https://missamii.github.io/fe/
+
 Front End:
 
 Heroku:
 1). Git: https://github.com/missamii/fe
-2). Heroku:
+2). Git Hub Pages: https://polar-cliffs-37664.herokuapp.com/ 
 
 Back End:
 
 1). Git: https://github.com/missamii/be
-2). Heroku:
+2). Heroku: https://polar-cliffs-37664.herokuapp.com/
 
 
 This is a fullstack web app that uses a single API. There is a backend server, a frontend server and a NoSql database. (Mongo)
