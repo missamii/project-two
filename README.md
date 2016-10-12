@@ -36,5 +36,5 @@ https://developers.google.com/
 
 ### Glitches & Issues:
 - Searching for Author's returns errors. But you can use the drop down search book title with the Author's name it'll return something.
-- Nothing can be favorited as there is no DB. Due all the problems with trying to build the BE and create MongoDB.
+- I don't see where books are being favorited. There is a DB. However, it's showing activity in the console for CRUD features.
 - There is a share/mailto button, but it's not functional and returned errs as well.
