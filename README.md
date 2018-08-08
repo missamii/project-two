@@ -4,7 +4,8 @@
 
 This is my second project! I am a little proud at how far I came with it. I wish the database system worked. Between my backend and mongoDB I ran errors left and right. I tried to use the unicorn demo from class to help me. But it didn't help. It gave me errors as I fiddled with peices. Either way, I personally feel like I have come a lot further from last project.
 
-Link to APP: https://missamii.github.io/fe/
+[Check Out The App](https://missamii.github.io/fe/)
+
 
 Front End:
 
@@ -23,12 +24,12 @@ This is a fullstack web app that uses a single API. There is a backend server, a
 The API's are from:
 https://developers.google.com/
 
-###APP features:
+### APP features:
 - Search & Grab books. (get prices, short descriptions and the author of the book)
 - Save books you like or change your mind and delete the ones you don't.
 - Share books with friends, even if they are on this app via email.
 
-##MVP Checklist:
+## MVP Checklist:
 - The User can search for a book by Title & Author*
 - All searched for book are appended to the DOM.
 - CRUD actions for Book
